@@ -15,7 +15,7 @@ Necessary libraries:
  - datetime
  - os
 
-## Trying ##
+## Training ##
 In order to train our model, the file **train.ipynb** must be ran. This file is pre-filled to use the class data as the training set. The code can be ran in its entirety from top to bottom to show the how well our model performs. It will print the overall accuracy, per-class accuracy, and the confusion matrix at the bottom of the document. 
 
 If it is wished to change the training data, **X** and **y** can be changed to load from a different directory path.
