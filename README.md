@@ -25,7 +25,7 @@ The main functionality of this file is to run the *train* function. Epoch size, 
 Each function will have a short description about the functionality of the code, and expected inputs and outputs.
 
 ## Testing ##
-In order to test our model, the file **test.ipynb** and **final_model.pt** will need to be in the same folder. When **test.ipynb** is open, the cells pre-filled with code must be ran from top to bottom for all the cells to be compiled in the correct order. Any additional code can then be added in a cell below the pre-filled cells.
+In order to test our model, the file **test.ipynb** and **final_model.pth** will need to be in the same folder. When **test.ipynb** is open, the cells pre-filled with code must be ran from top to bottom for all the cells to be compiled in the correct order. Any additional code can then be added in a cell below the pre-filled cells.
 
 Input for *test* function: 
 Our *test* function can be ran with one input parameter, **X**. This is expected to be in the same format as the original class data distributed at the beginning of the semester (Nx100x100x3). 
